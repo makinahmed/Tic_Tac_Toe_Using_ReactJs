@@ -1,7 +1,7 @@
 # Tic Tac Toe Game Using React Js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![alt text](https://github.com/makinahmed/Tic_Tac_Toe_Using_ReactJs/blob/main/public/Tic.png)
 ## Available scripts
 
 In the project directory, you can run:
